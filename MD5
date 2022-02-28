@@ -1,4 +1,4 @@
-5f142a06141444c44650defd6a15e3ac *DESCRIPTION
+b9c93898e6f553d822a931a456464df4 *DESCRIPTION
 cd2e08511939bee8eac7316d275c1767 *LICENSE
 5d5448bfcc4c70758a82b48ceb0366b2 *NAMESPACE
 ec241daf78964ca9b902ab2d62d56d0e *R/authenticate.R
@@ -10,7 +10,7 @@ cb4ea07c8351956567c202ed2f2eeecc *R/google_services_constructors.R
 60a282009fcb9a5bed76d3094a9b7cd2 *R/load_token.R
 952553585a1b6cb1371f53ffbf4c7035 *R/print.R
 d14680d7cd05591c0803d0d0225badbe *R/queries.R
-ea5ec727422a633cb7497cd5576d6bfa *R/query_google_ads.R
+be5d2583580dedd31f9df63941b3f1af *R/query_google_ads.R
 c450f955d7996b2922ee3ffd8f860bc0 *R/refresh_token.R
 2dd9a777fe1539c28f98d056b6f129fd *README.md
 a343c4d5a1676921bb23e17e5af22cea *build/vignette.rds
